@@ -1,3 +1,10 @@
-<html>
-  <p>Hello worlf</p>
+<!DOCTYRE html>
+<html lang='ru>
+<head>
+  <meta charset='UTF-8'>
+  <title>simple_projekt</title>
+</head>
+<body>
+  <h1>Hello,world!</h1>
+</body>
 </html>
